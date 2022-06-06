@@ -1,0 +1,24 @@
+{
+  "name": "zk-self-recovery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daichiTAAA/zk-self-recovery.git",
+  "author": "DaiichiroNoda <69710300+donachii@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "circom_tester": "^0.0.11",
+    "circomlibjs": "^0.1.2",
+    "test-console": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "circomlib": "^2.0.3",
+    "ethereum-waffle": "^3.4.4",
+    "hardhat": "^2.9.7",
+    "snarkjs": "^0.4.19",
+    "web3": "^1.7.3"
+  }
+}
